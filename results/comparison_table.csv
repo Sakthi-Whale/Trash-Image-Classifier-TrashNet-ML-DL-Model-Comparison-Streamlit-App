@@ -1,0 +1,4 @@
+Model,Val Accuracy,Test Accuracy,Test F1 (macro),Train Time (s),# Params
+MobileNetV2 (transfer learning),0.8805,0.8008,0.7256,269.4,2588486.0
+HOG + SVM,0.6215,0.6096,0.5967,19.2,
+HOG + Random Forest,0.5578,0.5657,0.5009,14.9,

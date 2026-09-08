@@ -1,0 +1,14 @@
+# Core
+numpy
+pandas
+Pillow
+scikit-learn
+scikit-image
+matplotlib
+joblib
+
+# Deep learning (used by train_cnn.py / train_transfer.py)
+tensorflow>=2.15
+
+# App
+streamlit
