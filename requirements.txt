@@ -1,4 +1,3 @@
-# Core
 numpy
 pandas
 Pillow
@@ -8,7 +7,7 @@ matplotlib
 joblib
 
 # Deep learning (used by train_cnn.py / train_transfer.py)
-tensorflow>=2.15
+tensorflow==2.20.0
 
 # App
 streamlit
